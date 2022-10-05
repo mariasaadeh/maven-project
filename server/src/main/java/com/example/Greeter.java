@@ -1,6 +1,6 @@
 
-import java.lang.math ;
-import java.io. * ;
+import java.lang.Math ;
+import java.io.* ;
 
 package com.example;
 
